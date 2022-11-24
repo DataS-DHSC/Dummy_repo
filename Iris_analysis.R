@@ -16,6 +16,7 @@ iris_renamed <- iris %>%
 
 # analyse the data
 mean_petal_length <- mean(iris_renamed$Petal.Length)
+mean_petal_width <- mean(iris_renamed$Petal.Width)
                             
                             
   
