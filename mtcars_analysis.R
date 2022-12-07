@@ -15,3 +15,5 @@ mtcars_filtered <- mtcars %>%
 
 # analyse the data
 max_mpg<- max(mtcars_filtered$mpg)
+ 
+# new comment
